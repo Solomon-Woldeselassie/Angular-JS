@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tampere">Tampere</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind">Wind</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="get_forecast">Get Forecast</string>
+    <string name="get_gps">Get GPS</string>
+</resources>
